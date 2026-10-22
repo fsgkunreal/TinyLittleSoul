@@ -1,0 +1,544 @@
+<mxfile host="Electron" pages="6">
+  <diagram name="Главная" id="m4OIps1lEGFpg2Kedjgm">
+    <mxGraphModel dx="1414" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tmYxNb_u0GV8szQlrRDO-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Tiny Little Soul" vertex="1">
+          <mxGeometry height="30" width="276" x="276" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tmYxNb_u0GV8szQlrRDO-4" edge="1" parent="1" source="tmYxNb_u0GV8szQlrRDO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tmYxNb_u0GV8szQlrRDO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Базовые требования&lt;div&gt;к проекту&lt;/div&gt;" link="data:page/id,6RyFh2LwBa92qSAKqtzU" id="tmYxNb_u0GV8szQlrRDO-2">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="60" width="120" x="60" y="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tmYxNb_u0GV8szQlrRDO-6" edge="1" parent="1" source="tmYxNb_u0GV8szQlrRDO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tmYxNb_u0GV8szQlrRDO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Целевая аудитория" link="data:page/id,sbTsOPbs9tSZJuIXdHcB" id="tmYxNb_u0GV8szQlrRDO-3">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="60" width="120" x="220" y="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tmYxNb_u0GV8szQlrRDO-8" edge="1" parent="1" source="tmYxNb_u0GV8szQlrRDO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tmYxNb_u0GV8szQlrRDO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Основной цикл&lt;div&gt;игрового процесса&lt;/div&gt;" link="data:page/id,jsNAMK7H4iQ0tVqqzEAq" id="tmYxNb_u0GV8szQlrRDO-5">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="60" width="120" x="380" y="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tmYxNb_u0GV8szQlrRDO-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Базовые системы" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="100" as="geometry" />
+        </mxCell>
+        <UserObject label="Основные механики" link="data:page/id,2UmQIomLwLNqWDTwFov9" id="SURB7wwf8y0L-aSQ-rPS-1">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="60" width="120" x="60" y="230" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Прогрессия" link="data:page/id,gLOPQHQF1JWpWy8sPNWI" id="tWukyRatH7sQ1kHNfXZj-1">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="60" width="120" x="210" y="230" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6RyFh2LwBa92qSAKqtzU" name="Базовые требования">
+    <mxGraphModel dx="1414" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Jinu3nMW-UFZGLnHAD3e-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Базовые требования к проекту" vertex="1">
+          <mxGeometry height="30" width="416" x="206" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EtjrTccsOt6BmHRtaFjo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Скорость производства" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EtjrTccsOt6BmHRtaFjo-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Фоновый геймплей&lt;br&gt;(играть можно под видосики)" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EtjrTccsOt6BmHRtaFjo-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Низкий порог входа" vertex="1">
+          <mxGeometry height="60" width="120" x="628" y="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sbTsOPbs9tSZJuIXdHcB" name="Целевая аудитория">
+    <mxGraphModel dx="1414" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Целевая аудитория" vertex="1">
+          <mxGeometry height="30" width="330" x="249" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-8" edge="1" parent="1" source="_nKmKHA1e7HajRSAZLVX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_nKmKHA1e7HajRSAZLVX-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129.5" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Дети \ Подростки" vertex="1">
+          <mxGeometry height="60" width="120" x="69.5" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-17" edge="1" parent="1" source="_nKmKHA1e7HajRSAZLVX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_nKmKHA1e7HajRSAZLVX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Студенты \ Молодёж" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-23" edge="1" parent="1" source="_nKmKHA1e7HajRSAZLVX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_nKmKHA1e7HajRSAZLVX-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Взрослые \ Семейные" vertex="1">
+          <mxGeometry height="60" width="120" x="451" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-28" edge="1" parent="1" source="_nKmKHA1e7HajRSAZLVX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_nKmKHA1e7HajRSAZLVX-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Пенсионеры" vertex="1">
+          <mxGeometry height="60" width="120" x="649.5" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-9" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Кевин" vertex="1">
+          <mxGeometry height="340" width="179" x="40" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-10" parent="_nKmKHA1e7HajRSAZLVX-9" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Школьник" vertex="1">
+          <mxGeometry height="30" width="179" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-11" parent="_nKmKHA1e7HajRSAZLVX-9" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="После учёбы делает уроки и посещает секции" vertex="1">
+          <mxGeometry height="80" width="179" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-12" parent="_nKmKHA1e7HajRSAZLVX-9" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Может уделять играм пару часов в день. После насыщеного дня смотрит любимых стримеров или авторов роликов. При этом любит поиграть в игры на фоне просмотра." vertex="1">
+          <mxGeometry height="140" width="179" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f7H6KHkmW85j-XaXgy8H-1" parent="_nKmKHA1e7HajRSAZLVX-9" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="30" width="179" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="f7H6KHkmW85j-XaXgy8H-2" parent="_nKmKHA1e7HajRSAZLVX-9" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="30" width="179" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-13" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Маргарет" vertex="1">
+          <mxGeometry height="340" width="179" x="230.5" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-14" parent="_nKmKHA1e7HajRSAZLVX-13" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Студентка колледжа" vertex="1">
+          <mxGeometry height="30" width="179" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-15" parent="_nKmKHA1e7HajRSAZLVX-13" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Отличница, уделяющая много времени учёбе." vertex="1">
+          <mxGeometry height="80" width="179" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-16" parent="_nKmKHA1e7HajRSAZLVX-13" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Много времени посвящает учёбе, но при этом любит разгрузить голову в играх. Ей не нравятся сложные игры. Из-за образа жизни может уделять играм по 30 минут в день." vertex="1">
+          <mxGeometry height="140" width="179" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f7H6KHkmW85j-XaXgy8H-9" parent="_nKmKHA1e7HajRSAZLVX-13" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry height="30" width="179" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="f7H6KHkmW85j-XaXgy8H-10" parent="_nKmKHA1e7HajRSAZLVX-13" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1">
+          <mxGeometry height="30" width="179" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-18" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Антон" vertex="1">
+          <mxGeometry height="440" width="190" x="416" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-19" parent="_nKmKHA1e7HajRSAZLVX-18" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Молодой токарь" vertex="1">
+          <mxGeometry height="30" width="190" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-20" parent="_nKmKHA1e7HajRSAZLVX-18" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Недавно закончил учёбу. Стажируется на производстве." vertex="1">
+          <mxGeometry height="80" width="190" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-21" parent="_nKmKHA1e7HajRSAZLVX-18" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Всегда любил игры и уделял им много времени. Сейчас стажируется на заводе на должность токаря. Уже несколько лет встречается с девушкой. Может уделять играм 2-3 часа в день, но предпочитает проводить это время со своей любимой. Хотел бы попробовать поиграть с ней вместе, или просто ввести её в мир гейминга, из-за чего ищет простенькие проекты для новичков и игры с возможностью совместной игры." vertex="1">
+          <mxGeometry height="240" width="190" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f7H6KHkmW85j-XaXgy8H-7" parent="_nKmKHA1e7HajRSAZLVX-18" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry height="30" width="190" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="f7H6KHkmW85j-XaXgy8H-8" parent="_nKmKHA1e7HajRSAZLVX-18" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1">
+          <mxGeometry height="30" width="190" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-24" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Джейми" vertex="1">
+          <mxGeometry height="340" width="179" x="620" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-25" parent="_nKmKHA1e7HajRSAZLVX-24" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Пенсионер" vertex="1">
+          <mxGeometry height="30" width="179" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-26" parent="_nKmKHA1e7HajRSAZLVX-24" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Геймер со стажем. Любит проводить время с внуками." vertex="1">
+          <mxGeometry height="80" width="179" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_nKmKHA1e7HajRSAZLVX-27" parent="_nKmKHA1e7HajRSAZLVX-24" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Много времени проводит со своими малолетними внуками, из-за чего не может позволить себе уделять много времени на игры. Предпочитает простенькие игры, которые в случае чего можно показать и маленьким детям." vertex="1">
+          <mxGeometry height="140" width="179" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f7H6KHkmW85j-XaXgy8H-5" parent="_nKmKHA1e7HajRSAZLVX-24" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry height="30" width="179" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="f7H6KHkmW85j-XaXgy8H-6" parent="_nKmKHA1e7HajRSAZLVX-24" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Реакция" vertex="1">
+          <mxGeometry height="30" width="179" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jsNAMK7H4iQ0tVqqzEAq" name="Основной игровой цикл">
+    <mxGraphModel dx="1178" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="obG1nrmuAEwbYUHv7d_Y-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="&lt;font&gt;Основной цикл&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font&gt;игрового процесса&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="390" x="219" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="Краткосрочный цикл" vertex="1">
+          <mxGeometry height="30" width="236" x="296" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-16" edge="1" parent="1" source="SFb1gO5UiJUshTR8pgcj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="SFb1gO5UiJUshTR8pgcj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-4" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Наблюдение и оценка" vertex="1">
+          <mxGeometry height="180" width="210" x="60" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-5" parent="SFb1gO5UiJUshTR8pgcj-4" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Игрок наблюдает за планировкой сцены, положением платформ, расположением интерактивных объектов (например ящиков, рычагов, порталов)" vertex="1">
+          <mxGeometry height="150" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-17" edge="1" parent="1" source="SFb1gO5UiJUshTR8pgcj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="SFb1gO5UiJUshTR8pgcj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-8" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Попытка действия" vertex="1">
+          <mxGeometry height="180" width="210" x="309" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-9" parent="SFb1gO5UiJUshTR8pgcj-8" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Игрок выполняет прыжок (или иное действие)" vertex="1">
+          <mxGeometry height="150" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-18" edge="1" parent="1" source="SFb1gO5UiJUshTR8pgcj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="SFb1gO5UiJUshTR8pgcj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Получение обратной связи" vertex="1">
+          <mxGeometry height="180" width="210" x="558" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-11" parent="SFb1gO5UiJUshTR8pgcj-10" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Успешное приземление, срабатывание кнопки, изменение ландшафта или смерть / провал" vertex="1">
+          <mxGeometry height="150" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-19" edge="1" parent="1" source="SFb1gO5UiJUshTR8pgcj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SFb1gO5UiJUshTR8pgcj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-12" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Коррекция" vertex="1">
+          <mxGeometry height="110" width="210" x="309" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="SFb1gO5UiJUshTR8pgcj-13" parent="SFb1gO5UiJUshTR8pgcj-12" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="На основе обратной связи игрок немедлено настраивает следующее действие" vertex="1">
+          <mxGeometry height="80" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dmZ8b8z17t_bDEBGUEAr-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="Среднесрочный цикл" vertex="1">
+          <mxGeometry height="30" width="236" x="296" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="dmZ8b8z17t_bDEBGUEAr-9" edge="1" parent="1" source="dmZ8b8z17t_bDEBGUEAr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="dmZ8b8z17t_bDEBGUEAr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dmZ8b8z17t_bDEBGUEAr-3" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Вход" vertex="1">
+          <mxGeometry height="180" width="210" x="60" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="dmZ8b8z17t_bDEBGUEAr-4" parent="dmZ8b8z17t_bDEBGUEAr-3" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Игрок входит в новую головоломную или платформенную сцену, визуально выделенную (дверь, портал, область смены темы)" vertex="1">
+          <mxGeometry height="150" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dmZ8b8z17t_bDEBGUEAr-10" edge="1" parent="1" source="dmZ8b8z17t_bDEBGUEAr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="dmZ8b8z17t_bDEBGUEAr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dmZ8b8z17t_bDEBGUEAr-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Решение" vertex="1">
+          <mxGeometry height="180" width="210" x="309" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="dmZ8b8z17t_bDEBGUEAr-6" parent="dmZ8b8z17t_bDEBGUEAr-5" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Используюя основные механики, игрок взаимодействует с элементами уровня для достижения цели. Цель может быть &quot;достич портала выхода&quot;, &quot;собрать все ключи&quot;, &quot;привести персонажа в определённое положение&quot;" vertex="1">
+          <mxGeometry height="150" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dmZ8b8z17t_bDEBGUEAr-11" edge="1" parent="1" source="dmZ8b8z17t_bDEBGUEAr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="dmZ8b8z17t_bDEBGUEAr-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="788" y="775" />
+              <mxPoint x="788" y="950" />
+              <mxPoint x="40" y="950" />
+              <mxPoint x="40" y="775" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dmZ8b8z17t_bDEBGUEAr-7" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Выход" vertex="1">
+          <mxGeometry height="180" width="210" x="558" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="dmZ8b8z17t_bDEBGUEAr-8" parent="dmZ8b8z17t_bDEBGUEAr-7" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="После завершения головоломки открывается путь к следующей сцене, иногда сопровождаясь кратким сюжетным фрагментом или сменой сцены." vertex="1">
+          <mxGeometry height="150" width="210" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2UmQIomLwLNqWDTwFov9" name="Основные механики">
+    <mxGraphModel dx="3068" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Платформенные механики" vertex="1">
+          <mxGeometry height="30" width="430" x="199" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-12" edge="1" parent="1" source="3YcAdKYNIun4RdUCw2c8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3YcAdKYNIun4RdUCw2c8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-13" connectable="0" parent="3YcAdKYNIun4RdUCw2c8-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
+          <mxGeometry relative="1" x="1" y="13" as="geometry">
+            <mxPoint x="-2" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-2" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Воздушный прыжок" vertex="1">
+          <mxGeometry height="150" width="230" x="-260" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-3" parent="3YcAdKYNIun4RdUCw2c8-2" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Круглая зона, находясь в которой игрок может совершать прыжки даже в воздухе" vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-6" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Двигающиеся платформы" vertex="1">
+          <mxGeometry height="150" width="230" x="45" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-7" parent="3YcAdKYNIun4RdUCw2c8-6" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Простые двигающиеся платформы." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-8" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Исчезающие платформы" vertex="1">
+          <mxGeometry height="150" width="230" x="350" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-9" parent="3YcAdKYNIun4RdUCw2c8-8" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Платформы, которые исчезают через некоторое время после попадания на них игрока." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Направленный воздушный прыжок" vertex="1">
+          <mxGeometry height="150" width="230" x="-260" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-11" parent="3YcAdKYNIun4RdUCw2c8-10" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Воздушный прыжок с фиксированными силой и направлением. Игроку достаточно вовремя нажать кнопку прыжка." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Механики управления" vertex="1">
+          <mxGeometry height="30" width="430" x="1481" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-15" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Перемещение" vertex="1">
+          <mxGeometry height="150" width="230" x="1300" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-16" parent="3YcAdKYNIun4RdUCw2c8-15" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Игрок может перемещаться вправо и влево." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-17" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Прыжок" vertex="1">
+          <mxGeometry height="150" width="230" x="1581" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-18" parent="3YcAdKYNIun4RdUCw2c8-17" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Стоя на земле игрок может совершать прыжки." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-19" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Рывок" vertex="1">
+          <mxGeometry height="150" width="230" x="1862" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-20" parent="3YcAdKYNIun4RdUCw2c8-19" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Стоя на земле игрок может совершать рывок вправо или влево для быстрого преодоления небольшого расстояния." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Механики противников" vertex="1">
+          <mxGeometry height="30" width="430" x="-827" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-22" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Мёртвая зона" vertex="1">
+          <mxGeometry height="150" width="230" x="-1057" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-23" parent="3YcAdKYNIun4RdUCw2c8-22" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Попадая в эту зону игрок мгновенно погибает и возвращается на последнюю контрольную точку." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-24" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Шипы" vertex="1">
+          <mxGeometry height="150" width="230" x="-780" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-25" parent="3YcAdKYNIun4RdUCw2c8-24" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Попадая на них сверху игрок мгновенно погибает и возвращается на контрольную точку" vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Механики взаимодействия \ головоломки" vertex="1">
+          <mxGeometry height="30" width="650" x="2530" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-27" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Кнопка" vertex="1">
+          <mxGeometry height="150" width="230" x="2320" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-28" parent="3YcAdKYNIun4RdUCw2c8-27" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Активируется попаданием в неё игрока во время рывка. Может запускать или отключать другие сущности." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-29" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Нажимная плита" vertex="1">
+          <mxGeometry height="150" width="230" x="2600" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-30" parent="3YcAdKYNIun4RdUCw2c8-29" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Активна пока на ней находится нужный объект: игрок или иная целевая сущность. Может запускать или отключать другие сущности." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-31" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Вмещающий куб" vertex="1">
+          <mxGeometry height="150" width="230" x="2880" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-32" parent="3YcAdKYNIun4RdUCw2c8-31" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Куб в который игрок может &quot;вселиться&quot; и перемещать его." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-35" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Разрушаемые объекты" vertex="1">
+          <mxGeometry height="150" width="230" x="3160" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-36" parent="3YcAdKYNIun4RdUCw2c8-35" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Простые объекты или стены которые можно разрушить при помощи рывка" vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-41" edge="1" parent="1" source="3YcAdKYNIun4RdUCw2c8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3YcAdKYNIun4RdUCw2c8-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-37" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Поток воздуха" vertex="1">
+          <mxGeometry height="150" width="230" x="660" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-38" parent="3YcAdKYNIun4RdUCw2c8-37" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Направленный поток воздуха может создавать подъёмную силу или сопротивление при перемещении" vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-39" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Реверсивный поток воздуха" vertex="1">
+          <mxGeometry height="150" width="230" x="660" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="3YcAdKYNIun4RdUCw2c8-40" parent="3YcAdKYNIun4RdUCw2c8-39" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Притягивает объекты, попавшие в поток воздуха, к своему источнику" vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M5Va-wu5LJTVET626GL6-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Механики &quot;Изнанки&quot;" vertex="1">
+          <mxGeometry height="30" width="650" x="4150" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M5Va-wu5LJTVET626GL6-6" edge="1" parent="1" source="M5Va-wu5LJTVET626GL6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="M5Va-wu5LJTVET626GL6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5Va-wu5LJTVET626GL6-2" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Призрачные платформы" vertex="1">
+          <mxGeometry height="150" width="230" x="3960" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="M5Va-wu5LJTVET626GL6-3" parent="M5Va-wu5LJTVET626GL6-2" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Эти платформы появляются только в Изнанке." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M5Va-wu5LJTVET626GL6-4" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Телесные платформы" vertex="1">
+          <mxGeometry height="150" width="230" x="3960" y="300" as="geometry">
+            <mxRectangle height="30" width="160" x="3960" y="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5Va-wu5LJTVET626GL6-5" parent="M5Va-wu5LJTVET626GL6-4" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Эти платформы появляются только в физическом мире и исчезают при переходе в Изнанку." vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M5Va-wu5LJTVET626GL6-7" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Огонь душ" vertex="1">
+          <mxGeometry height="150" width="230" x="4250" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="M5Va-wu5LJTVET626GL6-8" parent="M5Va-wu5LJTVET626GL6-7" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="При длительном нахождении в потоке пламени убивает игрока.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Подвид механики &quot;Поток воздуха&quot; со всеми вариациями.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="230" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gLOPQHQF1JWpWy8sPNWI" name="Прогрессия">
+    <mxGraphModel dx="2531" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uRHP9P7_gQd_6kNDkDM7-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Прогрессия&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Реализуется в виде неявной прогрессии. Вместе с явной прогрессией вроде прокачки персонажа используется прогрессия через сложность и локации, то есть чем дальше игрок проходит, тем сложнее испытания и другие декорации.&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="390" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHP9P7_gQd_6kNDkDM7-18" edge="1" parent="1" source="uRHP9P7_gQd_6kNDkDM7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="uRHP9P7_gQd_6kNDkDM7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaVrvkezlG4t53rYaskV-2" edge="1" parent="1" source="uRHP9P7_gQd_6kNDkDM7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WaVrvkezlG4t53rYaskV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHP9P7_gQd_6kNDkDM7-3" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Крепость" vertex="1">
+          <mxGeometry height="540" width="230" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHP9P7_gQd_6kNDkDM7-4" parent="uRHP9P7_gQd_6kNDkDM7-3" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Руины крепости, которая была полем древней битвы Ангелов и Титанов. Мрачное безжизненное место. Открытых пространств нет, только руины крепости.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Начальная локация, при прохождении которой нужно ввести игрока в работу основных механик передвижения, платформинга и сущностей.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHP9P7_gQd_6kNDkDM7-10" parent="uRHP9P7_gQd_6kNDkDM7-3" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="В качестве референса использовать Царство Аида из дополнения к Assassin&#39;s Creed: Odyssey - Судьба Атлантиды." vertex="1">
+          <mxGeometry height="170" width="230" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHP9P7_gQd_6kNDkDM7-12" parent="uRHP9P7_gQd_6kNDkDM7-3" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="На прохождение локации должно уходить у новичков в среднем &lt;b&gt;10-20 минут&lt;/b&gt;. Если уходит меньше или больше - корректировать уровень." vertex="1">
+          <mxGeometry height="170" width="230" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-_MZTyq4ksZtsAZTBB-3" edge="1" parent="1" source="uRHP9P7_gQd_6kNDkDM7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="uRHP9P7_gQd_6kNDkDM7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHP9P7_gQd_6kNDkDM7-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Локации&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="55" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-_MZTyq4ksZtsAZTBB-8" edge="1" parent="1" source="uRHP9P7_gQd_6kNDkDM7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="ia-_MZTyq4ksZtsAZTBB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHP9P7_gQd_6kNDkDM7-13" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Шахта (или катакомбы)" vertex="1">
+          <mxGeometry height="540" width="230" x="295" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHP9P7_gQd_6kNDkDM7-14" parent="uRHP9P7_gQd_6kNDkDM7-13" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Тёмное место с ограниченным пространством. Больше упор на головоломки чем на платформинг, хотя и им нельзя пренебрегать. Головоломки умеренные, без лишней сложности." vertex="1">
+          <mxGeometry height="170" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHP9P7_gQd_6kNDkDM7-15" parent="uRHP9P7_gQd_6kNDkDM7-13" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Никаких особых референсов, обычная шахта. Как вариант - шахта из фильма Индиана Джонс и Храм Судьбы." vertex="1">
+          <mxGeometry height="170" width="230" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHP9P7_gQd_6kNDkDM7-16" parent="uRHP9P7_gQd_6kNDkDM7-13" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Проходная локация для ознакомления игрока с механиками головоломки. На прохождение у новичка должно уходить в среднем &lt;b&gt;5-10 минут&lt;/b&gt;." vertex="1">
+          <mxGeometry height="170" width="230" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-_MZTyq4ksZtsAZTBB-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Неявная прогрессия" vertex="1">
+          <mxGeometry height="30" width="350" x="95" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-_MZTyq4ksZtsAZTBB-4" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Руины башни" vertex="1">
+          <mxGeometry height="540" width="230" x="590" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-_MZTyq4ksZtsAZTBB-5" parent="ia-_MZTyq4ksZtsAZTBB-4" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Локация преимущественно с вертикальным геймплеем. Основа геймплея - платформинг. Здесь проходит обучение системе &quot;Изнанки&quot;." vertex="1">
+          <mxGeometry height="170" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-_MZTyq4ksZtsAZTBB-6" parent="ia-_MZTyq4ksZtsAZTBB-4" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Никаких особых референсов, обычная шахта. Как вариант - шахта из фильма Индиана Джонс и Храм Судьбы." vertex="1">
+          <mxGeometry height="170" width="230" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-_MZTyq4ksZtsAZTBB-7" parent="ia-_MZTyq4ksZtsAZTBB-4" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Проходная локация для ознакомления игрока с механиками &quot;Изнанки&quot;. На прохождение у новичка должно уходить в среднем &lt;b&gt;5-10 минут&lt;/b&gt;." vertex="1">
+          <mxGeometry height="170" width="230" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ia-_MZTyq4ksZtsAZTBB-9" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Явная прогрессия&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="560" x="-760" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="WaVrvkezlG4t53rYaskV-7" edge="1" parent="1" source="WaVrvkezlG4t53rYaskV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WaVrvkezlG4t53rYaskV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaVrvkezlG4t53rYaskV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Крепость&lt;/font&gt;&lt;/b&gt;&lt;div&gt;Структура уровня&lt;br&gt;&lt;i&gt;act0_castle&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="55" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-4" edge="1" parent="1" source="WaVrvkezlG4t53rYaskV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VnTihGszTyqQKyh-42BM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaVrvkezlG4t53rYaskV-3" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Разрушенный мост" vertex="1">
+          <mxGeometry height="190" width="315" x="-42.5" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="WaVrvkezlG4t53rYaskV-4" parent="WaVrvkezlG4t53rYaskV-3" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Уничтоженый каменный мост, соединяющий Пустошь с Крепостью." vertex="1">
+          <mxGeometry height="75" width="315" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaVrvkezlG4t53rYaskV-5" parent="WaVrvkezlG4t53rYaskV-3" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Введение в механики передвижения и платформинга: перемещение, прыжок, воздушный прыжок." vertex="1">
+          <mxGeometry height="60" width="315" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-5" parent="WaVrvkezlG4t53rYaskV-3" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="act0_castle_bridge" vertex="1">
+          <mxGeometry height="25" width="315" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-11" edge="1" parent="1" source="VnTihGszTyqQKyh-42BM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VnTihGszTyqQKyh-42BM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Стены" vertex="1">
+          <mxGeometry height="190" width="315" x="-42.5" y="1589" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-2" parent="VnTihGszTyqQKyh-42BM-1" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Древние осыпающиеся стены крепости." vertex="1">
+          <mxGeometry height="75" width="315" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-3" parent="VnTihGszTyqQKyh-42BM-1" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Введение в механики платформинга: исчезающие платформы" vertex="1">
+          <mxGeometry height="60" width="315" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-6" parent="VnTihGszTyqQKyh-42BM-1" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="act0_castle_walls" vertex="1">
+          <mxGeometry height="25" width="315" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="nQadjTWEHBip5JghocdQ-1" edge="1" parent="1" source="VnTihGszTyqQKyh-42BM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VnTihGszTyqQKyh-42BM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-7" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Внутренний двор" vertex="1">
+          <mxGeometry height="205" width="315" x="-40" y="1808" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-8" parent="VnTihGszTyqQKyh-42BM-7" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="Небольшой сегмент вертикального геймплея. Простой двор крепости." vertex="1">
+          <mxGeometry height="75" width="315" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-9" parent="VnTihGszTyqQKyh-42BM-7" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Закрепляет знания игрока об изученных механиках платформинга и перемещения. Новых механник не вводит." vertex="1">
+          <mxGeometry height="75" width="315" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-10" parent="VnTihGszTyqQKyh-42BM-7" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="act0_castle_yard" vertex="1">
+          <mxGeometry height="25" width="315" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-12" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Внутренняя часть замка" vertex="1">
+          <mxGeometry height="205" width="315" x="-40" y="2042" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-13" parent="VnTihGszTyqQKyh-42BM-12" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" value="---" vertex="1">
+          <mxGeometry height="75" width="315" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-14" parent="VnTihGszTyqQKyh-42BM-12" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Знакомит игрока с механиками перемещения и взаимодействия: рывок и разрушаемые объекты" vertex="1">
+          <mxGeometry height="75" width="315" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VnTihGszTyqQKyh-42BM-15" parent="VnTihGszTyqQKyh-42BM-12" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="act0_castle_inside" vertex="1">
+          <mxGeometry height="25" width="315" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
